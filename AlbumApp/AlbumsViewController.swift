@@ -2,7 +2,7 @@
 //  AlbumsViewController.swift
 //  AlbumApp
 //
-//  Created by iMac on 02/06/21.
+//  Created by Tauseef Riasat on 02/06/21.
 //
 
 import UIKit

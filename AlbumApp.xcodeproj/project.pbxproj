@@ -107,7 +107,7 @@
 		8843AC2F2666C7A8000FCACB /* AlbumApp */ = {
 			isa = PBXGroup;
 			children = (
-				88E2B28B26674D3A0077D06C /* HelperCalss */,
+				88E2B28B26674D3A0077D06C /* HelperClass */,
 				8843AC302666C7A8000FCACB /* AppDelegate.swift */,
 				8843AC662666C828000FCACB /* AlbumsViewController.swift */,
 				8843AC6B2666C836000FCACB /* DetailViewController.swift */,
@@ -136,7 +136,7 @@
 			path = AlbumAppUITests;
 			sourceTree = "<group>";
 		};
-		88E2B28B26674D3A0077D06C /* HelperCalss */ = {
+		88E2B28B26674D3A0077D06C /* HelperClass */ = {
 			isa = PBXGroup;
 			children = (
 				8843AC7B2666CED2000FCACB /* AlbumTableViewCell.swift */,
@@ -145,7 +145,7 @@
 				88E2B29026674F4B0077D06C /* ServiceManager.swift */,
 				88E2B29226674F6D0077D06C /* Constants.swift */,
 			);
-			path = HelperCalss;
+			path = HelperClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
